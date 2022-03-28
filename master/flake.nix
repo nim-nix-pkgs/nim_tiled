@@ -11,7 +11,6 @@
   inputs.src-nim_tiled-master.ref   = "refs/heads/master";
   inputs.src-nim_tiled-master.owner = "SkyVault";
   inputs.src-nim_tiled-master.repo  = "nim-tiled";
-  inputs.src-nim_tiled-master.dir   = "";
   inputs.src-nim_tiled-master.type  = "github";
   
   inputs."zippy".owner = "nim-nix-pkgs";
